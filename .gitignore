@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Downloaded datasets and caches
+cifar10_data/
+celeba_data/
+taming_ffhq_cache/
+.huggingface/
+.cache/
+
+# Model weights / checkpoints
+PixelCNN++/checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# Local experiment scratch
+tmp/
+temp/
+wandb/
