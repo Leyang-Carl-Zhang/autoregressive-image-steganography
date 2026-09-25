@@ -1,0 +1,5 @@
+               Method       FID  PSNR (dB)    LPIPS   m (bits)  N (tokens)  Capacity m/N  Entropy rate  Utilization  Embedding time (s/image)  Extraction time (s/image)
+Pretrained completion       NaN        NaN      NaN        NaN         NaN           NaN           NaN          NaN                       NaN                        NaN
+                 ACS1 94.903222  15.109390 0.260843 889.180000  128.000000      6.946719      6.946498     1.000033                  4.403880                   4.399820
+               Discop 94.292067  15.041542 0.263682 851.940000  128.000000      6.655781      6.979848     0.953475                  8.786978                   4.394571
+                 ACS2 91.633086  15.005485 0.259977 890.950000  128.000000      6.960547      6.959755     1.000117                  4.435918                   4.400783

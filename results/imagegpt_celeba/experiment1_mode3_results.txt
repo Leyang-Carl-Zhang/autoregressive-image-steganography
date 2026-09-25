@@ -1,0 +1,4 @@
+Method  m_bits  N_tokens  capacity_bits_per_token  empirical_entropy_rate_bits_per_token  utilization  embedding_time_s  extraction_time_s        FID   PSNR_dB    LPIPS
+  ACS1 1424.69     512.0                 2.782598                               2.782461     1.000049         12.854000          12.605284 103.905136 15.157314 0.103451
+Discop 1228.98     512.0                 2.400352                               2.692108     0.888286         12.322199          12.314128  99.859962 15.474099 0.100689
+  ACS2 1413.22     512.0                 2.760195                               2.760193     1.000001         12.931741          12.492002 100.311913 15.153914 0.102995
